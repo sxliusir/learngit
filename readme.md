@@ -1,1 +1,1 @@
-Git Test! Creating a new branch is quick.issue
+Git Test! Creating a new branch is quick.
